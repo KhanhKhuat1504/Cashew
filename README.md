@@ -4,7 +4,7 @@
 
 **Cashew** keeps help close to you and your loved ones. By using sensory data from cellular device IMUs, Cashew is constantly monitoring to detect falls and contact the right support systems accordingly. With a personalized risk evaluation method and a community-based approach, Cashew brings together not just family but neighborhoods to protect each other. With Cashew, you need nut worry; we provide peace of mind, every step, every time.
 
-## Figma Design
+## User Interface
 
 <div style="display: flex; justify-content: space-between;">
   <img src="./Images/UserChoice.jpg" alt="Cashew Design 1" width="30%" />
